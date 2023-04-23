@@ -76,7 +76,7 @@ body::before {
 
 <br><br><br><br>
 
-<div style=" background-color:grey;">
+<div style=" background-color:yellow;">
 
 <p>今回も雅代さんのご尽力により生存確認会、無事開催されました<br>以下、会のスタート時の混乱の様子です。</p>
 <br><br>
@@ -124,9 +124,9 @@ FTS関連メンバー各位<br>
 E-mail:masayo_arai@jp.honda <br>
 https://www.honda.co.jp/RandD/hgsc/<br>
 ★<H><O><N><D><A><><H><O><N><D><A><><H><O><N><D><A>★・．<br>
+	</p>
 
-</p>
-</div>
+	</div>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
