@@ -114,7 +114,7 @@ FTS関連メンバー各位<br>
 参加者：17名<br><br>
  
 よろしくお願いいたしまーす<br><br>
-★＜H＞＜O＞＜N＞＜D＞＜A＞＜＞＜H＞＜O＞＜N＞＜D＞＜A＞＜＞＜H＞＜O＞＜N＞＜D＞＜A＞★・．<br>
+★＜H＞＜O＞＜N＞＜D＞＜A＞＜＞＜H＞＜O＞＜N＞＜D＞＜A＞＜＞＜H＞＜O＞＜N＞＜D＞＜A＞★<br>
 ★<H><O><N><D><A>_<H><O><N><D><A>_<H><O><N><D><A>★　<br>
 荒井　雅代<br>
 株式会社 本田技術研究所　ソリューションシステム開発センター<br>
@@ -123,7 +123,7 @@ FTS関連メンバー各位<br>
 外線：080-4789-8853　内線：8705148<br>
 E-mail:masayo_arai@jp.honda <br>
 https://www.honda.co.jp/RandD/hgsc/<br>
-★＜H＞＜O＞＜N＞＜D＞＜A＞＜＞＜H＞＜O＞＜N＞＜D＞＜A＞＜＞＜H＞＜O＞＜N＞＜D＞＜A＞★・．<br>
+★＜H＞＜O＞＜N＞＜D＞＜A＞＜＞＜H＞＜O＞＜N＞＜D＞＜A＞＜＞＜H＞＜O＞＜N＞＜D＞＜A＞★<br>
 </p>
 
 </div>
