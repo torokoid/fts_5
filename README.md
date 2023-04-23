@@ -45,7 +45,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://torokoid.github.io/fts_4/20230421_010.jpg) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://torokoid.github.io/fts_5/20230421_010.jpg) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
 </style>
@@ -54,8 +54,8 @@ body::before {
  
 </head>
 <body>
-<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>><a href="https://torokoid.github.io/fts_4">リアル同窓会_2>リアル同窓会_3</p>
-<h1><span class="yellow"><marquee behavior="alternate">!!! 2022年7月11日(月)リアル安否確認会の記録＠神田「岬」 !!!</marquee></span></h1>
+<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>><a href="https://torokoid.github.io/fts_4">リアル同窓会_2</a>>リアル同窓会_3</p>
+<h1><span class="yellow"><marquee behavior="alternate">!!! 2023年4月21日(金)リアル安否確認会の記録＠個室Dining 新荘園 アイガーデンテラス 飯田橋店 !!!</marquee></span></h1>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
@@ -144,5 +144,5 @@ https://www.honda.co.jp/RandD/hgsc/<br>
 
 <!-- フッタ -->
  <footer>
- <p>Copyright 2022/07/12 S.Hada</p>
+ <p>Copyright 2023/04/24 S.Hada</p>
  </footer>
