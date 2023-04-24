@@ -71,7 +71,10 @@ body::before {
 <a href="20230421_010.jpg" data-lightbox="abc"><img src="20230421_010.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230421_011.jpg" data-lightbox="abc"><img src="20230421_011.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20230421_012.jpg" data-lightbox="abc"><img src="20230421_012.jpg" alt="サンプル画像" width="900" /></a>
-
+<p>ここまでの12枚は里村さん撮影</p>
+<a href="20230421_013.jpg" data-lightbox="abc"><img src="20230421_013.jpg" alt="サンプル画像" width="900" /></a>
+<a href="20230421_014.jpg" data-lightbox="abc"><img src="20230421_014.jpg" alt="サンプル画像" width="900" /></a>
+<p>ここまでの2枚は矢口さん撮影</p>
 
 
 <br><br><br><br>
