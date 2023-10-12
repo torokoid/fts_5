@@ -54,7 +54,7 @@ body::before {
  
 </head>
 <body>
-<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>><a href="https://torokoid.github.io/fts_4">リアル同窓会_2</a>>リアル同窓会_3</p>
+<p><a href="https://torokoid.github.io/fts_home">Home</a>><a href="https://torokoid.github.io/fts">同窓会</a>><a href="https://torokoid.github.io/fts_2">Teams同窓会</a>><a href="https://torokoid.github.io/fts_3">Teams同窓会_2</a>><a href="https://torokoid.github.io/fts_4">リアル同窓会_2</a>>リアル同窓会_3><a href="https://torokoid.github.io/fts_6">リアル同窓会_4</a></p>
 <h1><span class="yellow"><marquee behavior="alternate">!!! 2023年4月21日(金)リアル安否確認会の記録＠個室Dining 新荘園 アイガーデンテラス 飯田橋店 !!!</marquee></span></h1>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
